@@ -1,2 +1,1 @@
-> [!WARNING]
-> Hello world
+[!code-csharp[name](Program1.cs)]
